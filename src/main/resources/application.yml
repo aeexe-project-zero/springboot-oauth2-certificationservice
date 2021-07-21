@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:mariadb://49.247.3.171:3306/glovis?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Seoul
+    username: glovis-user
+    password: dydalswjsqkqh
+    driver-class-name: org.mariadb.jdbc.Driver
